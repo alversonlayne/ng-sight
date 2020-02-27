@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ng-sight": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-sight"
+    }
+  },
+  "defaultProject": "ng-sight",
+  "cli": {
+    "analytics": "b752c9d9-1935-4f2a-98a5-206997b89937"
+  }
 }
