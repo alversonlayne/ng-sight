@@ -18,7 +18,7 @@ a {
   color: #44a4cd;
 }
 
-a:over {
+a:hover {
   color: #44a8cf;
 }
 
