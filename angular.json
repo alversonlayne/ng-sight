@@ -96,7 +96,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/ng2-charts/ng2-charts.d.ts"
+            ]
           }
         },
         "lint": {
